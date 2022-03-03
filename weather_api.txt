@@ -1,0 +1,5 @@
+https://nocodeapi.com/open-weather-map-api
+
+
+
+https://app.nocodeapi.com/dashboard/api/ow

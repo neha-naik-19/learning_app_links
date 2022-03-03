@@ -1,0 +1,140 @@
+Thapa Technical
+
+
+
+React Totorial for Beginners
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=DLX62G4lc44
+https://www.youtube.com/watch?v=Ke90Tje7VS0 -> Mosh
+https://www.youtube.com/watch?v=Zbjmfqw9RXM -> 10 days course React
+
+
+React scheduler for data dispaly
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://ej2.syncfusion.com/react/documentation/schedule/getting-started/
+
+
+React heatmap
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.syncfusion.com/react-ui-components/react-heatmap-chart
+
+http://bl.ocks.org/tjdecke/5558084
+
+https://www.freecodecamp.org/news/a-heat-map-implementation-in-typescript/
+https://apexcharts.com/react-chart-demos/heatmap-charts/rounded/    =======>  apexcharts
+https://plotly.com/javascript/                                      =======>  plotly.com
+https://plotly.com/javascript/heatmaps/				    =======>  plotly.com
+https://www.npmjs.com/package/reactjs-calendar-heatmap		    =======>  calendar heatmap
+
+https://codesandbox.io/s/ij5to 						 ==> IMPORTATNT
+
+https://javascript.plainenglish.io/building-a-calendar-heatmap-with-svg-and-react-js-6751b19a2d95
+
+https://github.com/kevinsqi/react-calendar-heatmap/issues/74
+
+https://g2plot-v1.antv.vision/en/examples/calendar/basic
+
+https://jscharting.com/examples/chart-types/calendar/ 		    =======>  jscharting
+https://www.npmjs.com/package/jscharting-react
+jscharting for react js
+
+https://www.reddit.com/r/javascript/comments/kmtnvr/react_calendar_heatmap_using_reactdaypicker/ ====> using date picker
+
+
+
+https://www.freecodecamp.org/news/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2/ ==> chart libraries
+
+
+https://www.npmjs.com/package/@hackclub/react-calendar-heatmap
+
+https://openbase.com/js/react-calendar-heatmap
+
+
+
+
+
+API call in react
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=jzLue8O_CLs
+
+
+
+OOPs concept in Javascript
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=PFmuCDHHpwk
+
+
+
+
+React canlendar issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://github.com/kevinsqi/react-calendar-heatmap/issues
+https://github.com/kevinsqi/react-calendar-heatmap/issues/143
+
+
+
+
+csv with react calendar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://psdevuk.github.io/ud-flix/GitHub-Styled-HeatMap-Contribution-Calendar/
+
+
+
+
+SVG tutorial
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://tutorials.jenkov.com/svg/text-element.html
+
+
+
+
+
+react color bar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.npmjs.com/package/react-color-bar
+
+
+
+
+
+fetch and while loop issue
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://stackoverflow.com/questions/45008330/how-can-i-use-fetch-in-while-loop
+
+
+
+useEffect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=bYFYF2GnMy8
+
+
+react life cycle
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282
+
+
+
+weekly calendar react
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.npmjs.com/package/react-week-calendar
+https://codesandbox.io/s/xmt6r?file=/package.json
+https://codepen.io/chris552303/pen/YNEqGr  <----> schedular
+
+
+
+React full tutorial
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.geeksforgeeks.org/how-to-draw-a-curved-edge-hexagon-using-css/?ref=lbp
+https://www.geeksforgeeks.org/reactjs-importing-exporting/?ref=gcse
+
+
+
+react totorial Thapa
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=b7JJCGXlACM
+
+
+react examples
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.tutsmake.com/react-17-bootstrap-datepicker-example/
+

@@ -1,0 +1,105 @@
+
+How to Create Google Developers Console Project
+--------------------------------------------------
+https://www.youtube.com/watch?v=kVUIh5cp3mY
+--------------------------------------------------
+
+
+Laravel Authentication Videos - Login with google | Socialite
+--------------------------------------------------
+https://www.youtube.com/watch?v=NuyouEHghac&list=PLe30vg_FG4OTO7KbQ6TByyY99AiSw1MDS
+
+https://www.youtube.com/watch?v=0y0N75gkLb4
+
+https://www.itsolutionstuff.com/post/laravel-58-login-with-google-account-exampleexample.html
+--------------------------------------------------
+
+
+
+WordPress Tutorial Link
+--------------------------
+https://www.youtube.com/watch?v=MsRhxl_zk5A 
+
+
+
+Wordpress installtion on ubuntu
+--------------------------------
+https://www.ubuntubuzz.com/2017/06/how-to-install-wordpress-on-xampp-on-ubuntu.html
+
+
+
+How to Deploy Laravel Projects to Live Server: The Ultimate Guide
+------------------------------------------------------------------
+https://laraveldaily.com/how-to-deploy-laravel-projects-to-live-server-the-ultimate-guide/
+
+
+Table rows up-down
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=srv5p791Am8
+
+
+
+Bibtex related links
+------------------------------------------------------------------
+https://packagist.org/packages/renanbr/bibtex-parser
+
+
+https://verbosus.com/bibtex-style-examples.html
+
+
+
+progress bar
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=y03vBPewFog
+
+
+
+Create Add-ons for Google Docs
+------------------------------------------------------------------
+https://www.youtube.com/watch?v=4bLwqv6XcuQ
+https://www.youtube.com/watch?v=6jcc3xm7aRU
+https://www.labnol.org/internet/write-google-docs-addon/28446/
+https://www.youtube.com/watch?v=fx6quWRC4l0
+
+https://sites.google.com/site/scriptsexamples/available-web-apps/mail-merge/documentation/send-messages/pull-attachments-from-a-column-in-the-sheet
+
+
+https://developers.google.com/s/results/apps-script/s/results/?q=createaddonmenu
+https://developers.google.com/workspace/add-ons/concepts/dialogs?hl=en -====> Workspace Developer Add-ons
+
+
+https://gist.github.com/mogsdad/6472790 --> doget
+
+https://www.youtube.com/watch?v=CLjXEdKbqqs ====> google sheet script with deployment (video)
+
+
+https://www.youtube.com/watch?v=6jcc3xm7aRU&t=798s ======> deploy google sheet add-ons (Deploy Google Sheet Add-on)
+https://www.youtube.com/watch?v=vEDUt7aj15k        ======> same as above
+
+https://www.youtube.com/watch?v=bwU1MSLi33Q  =====> deployment
+
+
+https://www.youtube.com/watch?v=KxdCIbeO4Uk  ======> complete send mail details with ui
+
+
+https://www.youtube.com/watch?v=vBsIYZEqjTA =====> google video on apps script and g suite deployment
+
+
+https://www.youtube.com/watch?v=MGkcbP5Gd1o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+syncfusion scheduler
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=iNkryf_TtZw
+
+https://ej2.syncfusion.com/react/documentation/schedule/views/
+
+
+scheduler popup display handling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://ej2.syncfusion.com/react/documentation/schedule/editor-template/
+
+
+
+editor window
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=r24VBNlUmGg
+

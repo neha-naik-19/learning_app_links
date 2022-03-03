@@ -1,0 +1,48 @@
+
+Monotoring Tools understanding
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.admin-magazine.com/HPC/Articles/HPC-Monitoring-What-Should-You-Monitor
+
+https://csce.ucmss.com/cr/books/2017/LFS/CSREA2017/GCC3309.pdf
+
+https://en.wikipedia.org/wiki/Comparison_of_cluster_software
+
+https://us.sios.com/linux-clustering/
+
+
+
+
+What is High-Performance Computing?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/
+
+
+
+Clustering project for linux
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=4LyL4sNZ1u4
+
+https://www.youtube.com/watch?v=4LyL4sNZ1u4&list=RDCMUCAQjmY2DJqwU3Eqz0oN83aw&start_radio=1
+
+
+Scheduler in PHP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=YGceNLxb2ZM
+
+
+python code
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=GIywmJbGH-8 -> Plotting real-time data using Python
+
+https://www.youtube.com/watch?v=_OlNOKg3PpY -> Python Tips & Tricks: How to Check Memory Usag
+
+
+CACTI monitoring tool
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.tecmint.com/install-cacti-network-monitoring-on-rhel-centos-fedora/
+
+
+
+
+
+

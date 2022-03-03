@@ -1,0 +1,10 @@
+
+Current version Composer installation
+------------------------------------------------------------------------------
+
+https://techstorm.io/how-to-update-or-upgrade-composer-version-in-ubuntu/
+
+
+ubuntu version
+------------------------------------------------------------------------------
+https://linuxize.com/post/how-to-check-your-ubuntu-version/

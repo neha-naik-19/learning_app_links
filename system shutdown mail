@@ -1,0 +1,41 @@
+https://ask.fedoraproject.org/t/send-email-before-system-shutdown-systemd/8638
+
+
+shutdown script
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://askubuntu.com/questions/416299/execute-command-before-shutdown-reboot
+
+
+bash scripting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://help.ubuntu.com/community/Beginners/BashScripting
+
+
+how/where to run system shut down script
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://unix.stackexchange.com/questions/48973/execute-a-command-before-shutdown
+
+
+Script to Receive Email Notification in Ubuntu 14.04 When System Shuts Down and Boots up
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://askubuntu.com/questions/702775/script-to-receive-email-notification-in-ubuntu-14-04-when-system-shuts-down-and
+
+
+ubuntu system shutdown at specific time everyday
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=RunOj9wZk9A
+
+
+app level password
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://bobcares.com/blog/smtp-authentication-error-534/
+
+
+
+How to send emails from a bash script using ssmtp?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.digitalocean.com/community/questions/how-to-send-emails-from-a-bash-script-using-ssmtp
+
+https://unix.stackexchange.com/questions/284598/systemd-how-to-execute-script-at-shutdown-only-not-at-reboot
+
+

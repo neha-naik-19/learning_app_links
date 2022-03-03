@@ -1,0 +1,14 @@
+NFC with expo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://expo.canny.io/feature-requests/p/nfc
+
+
+react native NFC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://github.com/revtel/react-native-nfc-rewriter
+
+example to create native in expo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://stackoverflow.com/questions/63058283/unable-to-eject-expo-to-react-native
+
+https://www.youtube.com/watch?v=yuaE8_nXmeY

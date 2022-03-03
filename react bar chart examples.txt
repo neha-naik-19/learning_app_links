@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/how-to-implement-barchart-in-reactjs/
+
+https://www.educative.io/edpresso/how-to-use-chartjs-to-create-charts-in-react
+
+https://www.youtube.com/watch?v=eAsII_yr6tc
+
+
+https://www.chartjs.org/docs/latest/charts/line.html

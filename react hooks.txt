@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/58878321/reactjs-what-is-optimized-way-for-multiple-api-calls

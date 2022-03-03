@@ -1,0 +1,46 @@
+
+
+Python for beginners
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+
+Python Machine Learning
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=7eh4d6sabA0&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA&index=7
+
+
+Anaconda , Jupyter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://phoenixnap.com/kb/how-to-install-anaconda-ubuntu-18-04-or-20-04
+
+
+dash on python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=iAXwlrtBUEY
+
+
+dash + Django
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=yRjteiImIWw
+https://www.youtube.com/watch?v=psvU4zwO3Ao
+
+
+heatmap in python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=UgtjatBt3vY
+https://www.youtube.com/watch?v=0U9cs2V-Mqc
+https://stackoverflow.com/questions/32485907/matplotlib-and-numpy-create-a-calendar-heatmap
+
+https://www.huiwenteo.com/normal/2018/07/24/django-calendar.html  --> working with this (28-06-2021)
+https://paulgrajewski.medium.com/django-and-python-calendar-e647a8eccff6 --> working with this (28-06-2021)
+https://alexpnt.github.io/2017/07/15/django-calendar/
+
+Correlation Matrix
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://datavizcatalogue.com/blog/chart-combinations-visualizing-data-in-calendars/ ===> different chrats along with calendar chart
+
+https://www.pythonprogramming.in/how-to-create-heatmap-calendar-using-numpy-and-matplotlib.html
+
+
+

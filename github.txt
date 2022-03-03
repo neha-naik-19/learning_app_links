@@ -1,0 +1,12 @@
+add new files/projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=KlggT7ZjKOw
+https://www.techrepublic.com/article/how-to-push-a-new-project-to-github/
+
+
+create token for github authentication
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8
+
+
+

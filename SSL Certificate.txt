@@ -1,0 +1,30 @@
+free SSL certificate
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://punchsalad.com/ssl-certificate/install-lets-encrypt-godaddy/
+
+https://app.zerossl.com/dashboard/start
+
+https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https
+
+https://dev.to/techparida/how-to-get-free-ssl-for-your-website-with-let-s-encrypt-on-ec2-ubuntu-18-04-hands-on-4kbd
+
+
+
+
+
+curl issue on server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.cyberciti.biz/faq/how-to-curl-ignore-ssl-certificate-warnings-command-option/
+
+
+
+
+openssl self signed certificate installation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.youtube.com/watch?v=LHUbQtUeQ0o
+https://www.youtube.com/watch?v=wzbf9ldvBjM
+https://www.youtube.com/watch?v=q1OF_0ICt9A
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04

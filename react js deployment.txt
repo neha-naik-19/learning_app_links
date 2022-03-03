@@ -1,0 +1,17 @@
+
+https://linuxhint.com/install-reactjs-on-ubuntu-20-04/
+
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04
+
+
+https://www.pluralsight.com/guides/deploy-a-react-app-on-a-server
+
+
+ubuntu
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://dev.to/xarala221/the-easiest-way-to-deploy-a-react-web-application-2l8a
+
+https://www.youtube.com/watch?v=vRrhQwNixlc
+
+https://www.youtube.com/watch?v=tGYNYPKTyno
